@@ -48,8 +48,7 @@ I am a **Software Engineer** and **AI Tinkerer** with a passion for turning comp
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulGupta2922&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulGupta2922&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulGupta2922&theme=tokyonight" height="170" />
 </p>
 
 ---
